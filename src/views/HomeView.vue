@@ -1,10 +1,9 @@
 <script setup lang="ts">
-
-import TodoView from '../views/TodoView.vue'
+import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
   <main>
-    <TodoView />
+    <TheWelcome />
   </main>
 </template>
